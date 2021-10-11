@@ -1,5 +1,7 @@
 # Title
 
+ {% include navigation.html %}
+
 ## heading 2
 hello
 
