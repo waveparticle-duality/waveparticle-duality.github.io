@@ -1,6 +1,6 @@
 ---
-Title: Black Body Radiation
-Description: description
+title: Black Body Radiation
+description: description
 ---
 
  {% include navigation.html %}

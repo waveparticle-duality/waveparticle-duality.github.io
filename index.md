@@ -1,6 +1,6 @@
 ---
-Title: Home
-Description: description
+title: Home
+description: description
 ---
 
  {% include navigation.html %}
