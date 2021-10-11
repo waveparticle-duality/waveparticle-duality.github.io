@@ -1,9 +1,4 @@
----
-title: Black Body Radiation
-description: description
----
-
- {% include navigation.html %}
+{% include navigation.html %}
 
 # Black Body
 

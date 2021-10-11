@@ -1,9 +1,4 @@
----
-title: Home
-description: description
----
-
- {% include navigation.html %}
+{% include navigation.html %}
 
 # Title
 
