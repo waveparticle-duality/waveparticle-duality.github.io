@@ -1,6 +1,13 @@
-# Title
+---
+Title: Home
+Description: description
+---
 
  {% include navigation.html %}
+
+# Title
+
+
 
 ## heading 2
 hello
