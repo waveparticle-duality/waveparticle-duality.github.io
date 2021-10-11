@@ -1,4 +1,5 @@
 {% include navigation.html %}
+{% include latex.html %}
 
 # Black Body
 
