@@ -16,7 +16,7 @@ We call an object a black body if it absorbs all electro-magnetic waves that fal
 It turns out that for black bodies, the color of the glow depends only on the temperature of the object. The following chart shows us the colors that we observe for certain temperatures. We can actually use this chart as a rough estimate for the temperature of stars, by making the assumption that they are black bodies.
 
 ![img](https://lh3.googleusercontent.com/0AvgP8NNoTXckbB_U7s_kfP0JScFtXWt37EYsNzh_idezUPKJ1gwmLEE9_aawRshGWz0AmbiXfaKuGGWaRqSAOK33AzBypx3Se2j8CMb3YyXi99pe8CDzuxshp9976rhy677umt-=s0)
-From the color of the sun, we can determine that the temperature on the sun’s surface is about 6000-7000 degrees Kelvin, which is close to the actual temperature of 5772 Kelvin.
+From the color of the sun, we can determine that the temperature on the sun’s surface is about $$6000$$ to $$7000$$ degrees Kelvin, which is close to the actual temperature of $$5772$$ Kelvin.
 
 ![img](https://lh5.googleusercontent.com/nwvzLkamiJ4dpAaHQgO0WAYxuBzP13Q7yQ1VXblerNg9YmOwGscIEdcMZ-8J5_jIF0oX1vohiHMMPisJwop0cQ8nR3M9zh1j7tzyeFD4GY1prFe3NvWzUWg6Zq5WpZbiZgmx09mO=s0)
 
@@ -30,10 +30,10 @@ But scientists wanted to know why certain temperatures gave off different colors
 
 However, physicists could find out a few formulas empirically (by fitting equations to their data without justification).
 
-Firstly, we have the Stefan-Boltzmann Law that states that is $P=\sigma AeT^4$. Where $P$ is the power emitted, $\sigma=5.67010^{-8} ~Wm^{-2}K$ is a constant known as the Stefan-Boltzmann constant, $A$ is the surface area of the object, $e$ is the emissivity of the object (so black bodies have $e=1$ since it is a perfect absorber and emitter of radiation) and T is the temperature (in Kelvin) of the object.
+Firstly, we have the Stefan-Boltzmann Law that states that is $$P=\sigma AeT^4$$. Where $$P$$ is the power emitted, $$\sigma=5.67010^{-8} ~Wm^{-2}K$$ is a constant known as the Stefan-Boltzmann constant, $$A$$ is the surface area of the object, $$e$$ is the emissivity of the object (so black bodies have $$e=1$$ since it is a perfect absorber and emitter of radiation) and T is the temperature (in Kelvin) of the object.
 
-Secondly, we have Wien’s displacement law that states that $\lambda_{peak}T=2.89810^{-3} ~mK$. Where peak is the wavelength of radiation of light that is emitted out the most. 
+Secondly, we have Wien’s displacement law that states that $$\lambda_{peak}T=2.89810^{-3} ~mK$$. Where peak is the wavelength of radiation of light that is emitted out the most. 
 
-We know that the wavelength of visible light is between $400~nm$ and $700~nm$. We can find that the temperature for where the peak wavelength is visible light is around $4140~K$ to $7245~K$. This roughly matches up with the color observed by the blackbodies as when the peak radiation is in the visible spectrum, the entire spectrum of light will be emitted roughly equally and we observe white-ish light (because combining all colors of light gives us white light). When peak is lower or higher, we observe blue-ish and red-dish light respectively.
+We know that the wavelength of visible light is between $$400~nm$$ and $$700~nm$$. We can find that the temperature for where the peak wavelength is visible light is around $$4140~K$$ to $$7245~K$$. This roughly matches up with the color observed by the blackbodies as when the peak radiation is in the visible spectrum, the entire spectrum of light will be emitted roughly equally and we observe white-ish light (because combining all colors of light gives us white light). When peak is lower or higher, we observe blue-ish and red-dish light respectively.
 
 After many failed attempts by physicist to model the wavelength spectrum, it seemed that Max Planck had finally figured out a way to do it. But he had to make two very bold and novel assumptions that would soon split the physics community apart. 
