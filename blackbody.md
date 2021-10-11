@@ -1,7 +1,3 @@
----
-title: Black Body Radiation
----
-
 {% include navigation.html %}
 {% include latex.html %}
 
