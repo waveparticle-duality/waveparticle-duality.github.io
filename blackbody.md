@@ -1,5 +1,6 @@
 ---
-title: "Black Body Radiation"
+layout: default
+title: Black Body Radiation
 ---
 
 {% include navigation.html %}
