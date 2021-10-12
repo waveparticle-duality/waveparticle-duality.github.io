@@ -40,7 +40,9 @@ So what exactly did Einstein propose?
 <p align="center"><img src="https://lh3.googleusercontent.com/VnV3msgWmDLgcvSXResVUkGj_VS6WKpqYu__CBhyXKxcVi9qQOeQN6V3t9m1qUzDhmWOa_dNf82_yoxc_5UVRByyd8HyUuxW-MTOrapON4gcpj8Bh8vvk4NYLiSsOJWxt9L5GEfF=s0" alt="img" width="627" height="142"/></p>
 
 By demanding that electromagnetic radiation at a given frequency could only transfer energy to matter in packets of energy 
-$$E=hf, h=Planck's constant, f=frequency$$
+
+$$E=hf, h=Planck's  constant, f=frequency$$
+
 light can be treated as a stream of these packets called photons, where each photon may get absorbed by a corresponding electron, giving energy for the electron to be emitted.
 
 Increasing intensity increases the number of photons, so more electrons absorb the energy and can be emitted. Hence, increasing intensity increases amount of electrons emitted.
@@ -50,19 +52,10 @@ Hence, increasing frequency increases the emitted electrons’ energy
 
 More interestingly, scientists observed that if the incident light had a lower frequency than a specific threshold frequency $$f_{o}$$ no electrons are emitted regardless of how bright the light was. This $$f_{o}$$ turned out to be specific to each metal type.
 
-These results were not confirmed until 1915, when Robert Andrews Millikan produced experimental results in perfect accord with Einstein's predictions.
-
-In turn, this demonstrated the particulate nature of light, as the effect was impossible to understand in terms of a classical wave description of light. 
-
-
-If one demanded that electromagnetic radiation at a given frequency could only transfer energy to matter in integer multiples of an energy quanta $$hf$$, low-frequency light only ejects low-energy electrons because each electron is excited by the absorption of a single photon. Increasing the intensity increases the number of photons, and thus the number and not the energy of excited electrons, because the energy of each photon remains low. By increasing the frequency of the light and thus the energy of the photons, one can eject electrons with higher energy. 
-
-## Relationship of energy and frequency 
-
-The energy of ejected electrons should also increase linearly with frequency, with the gradient of the line being Planck's constant, famously known with the equation $$E = hf$$. These results were not confirmed until 1915, when Robert Andrews Millikan produced experimental results in perfect accord with Einstein's predictions.
+In turn, the energy of ejected electrons should also increase linearly with frequency, with the gradient of the line being Planck's constant. These results were not confirmed until 1915, when Robert Andrews Millikan produced experimental results in perfect accord with Einstein's predictions.
 
 <p align="center"><img src="https://cdn.goconqr.com/uploads/image_clipping/image/143813/photoelectric-graph.jpg" alt="img" width="300" height="300"/></p>
 
-In turn, this demonstrated the particulate nature of light, as the effect was impossible to understand in terms of the classical wave description of light as the energy of the emitted electrons did not depend on the intensity of the incident radiation. Classical theory predicted that the electrons would 'gather up' energy over a period of time, and then be emitted.
+In turn, this demonstrated the **particulate nature of light**, as the effect was impossible to understand in terms of a classical wave description of light. 
 
 <p align="center"><img src="https://lh3.googleusercontent.com/YqwvIJ8Khq-tsVgd_TTdYpOFl_TrwY3cJ_w1wnM2Iwq_k03GWE55M3gEBwCgiKam3MQoK494tbKxi59ZNk_ax0ej4-iKiu3qHPyEiRljcC5qFrna8d1eZXBn_1lMGmiWtpigRcvM=s0" alt="img" width="300" height="300"/></p>
