@@ -1,5 +1,4 @@
 ---
-title: Black Body Radiation
 layout: default
 ---
 
