@@ -7,10 +7,10 @@ layout: default
 
 Q1) A particular blackbody radiates a maximum wavelength of 1449nm. Determine the temperature of the object in K.  <br>
 
-<input type="radio" name="q1" value="0"> $$500$$ <br>
-<input type="radio" name="q1" value="0"> $$1000$$ <br>
-<input type="radio" name="q1" value="1"> $$2000$$ <br>
-<input type="radio" name="q1" value="0" > $$4000$$ <br>
+<input type="radio" name="q1" value="0"> $$500K$$ <br>
+<input type="radio" name="q1" value="0"> $$1000K$$ <br>
+<input type="radio" name="q1" value="1"> $$2000K$$ <br>
+<input type="radio" name="q1" value="0" > $$4000K$$ <br>
 <input id="submit1" type="button" value="submit"> <br>
 <p id="res1"> </p>
 <br>
