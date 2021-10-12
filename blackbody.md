@@ -1,3 +1,8 @@
+---
+title: Black Body Radiation
+description: Shiny
+---
+
 {% include navigation.html %}
 {% include latex.html %}
 
