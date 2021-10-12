@@ -41,7 +41,7 @@ So what exactly did Einstein propose?
 
 By demanding that electromagnetic radiation at a given frequency could only transfer energy to matter in packets of energy 
 
-$$E=hf, h=Planck's  constant, f=frequency$$
+$$E=hf$$, $$h \rightarrow$$ Planck's  constant, $$f \rightarrow$$ frequency
 
 light can be treated as a stream of these packets called photons, where each photon may get absorbed by a corresponding electron, giving energy for the electron to be emitted.
 
