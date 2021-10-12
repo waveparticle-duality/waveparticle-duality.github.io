@@ -7,6 +7,10 @@ layout: default
 
 # About
 
+## Intended Audience
+
+This site is intended for readers with a pre-highschool level of understanding, serving as a primer to the topics behind wave-particle duality.
+
 ## Creators
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/871608801235697754/897447967785619516/unknown.png" alt="img"  width="627" height="367"/></p>
