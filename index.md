@@ -5,11 +5,18 @@ layout: default
 {% include navigation.html %}
 {% include latex.html %}
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Hk3fgjHNQ2Q" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 ## The Wave Theory of Light
 
 Most introductory physics deal with concepts that are tangible to everyday life, we deal with the motion of pendulums and cars, or the collision of particles like atoms. Modelling the behaviour of these human-scale objects has been the task of scientists for centuries and forms the basis of **classical physics**. But also at a human-scale we clearly observe another phenomena, light.
 
 <p float="left" align ="middle"><img src="https://lh6.googleusercontent.com/rfLUAwP4pD8-NVxtNCEZZYG6dsQUIRWTxXEifA0l8rLF4s906wfsagbhj74peg6QkxmzMGPF2XAPKiXVnb50OCfr6QeN-tErnCfJyH--kS5xYoPq90AZNm2a0dWFiQO1C_G7UTw9=s0" alt="img" width="208" height="224"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://lh3.googleusercontent.com/F99SPqiYHLUaZ4H7FE62gh9HQpUu_h-rRD8AQ9gzhZQIGflTTowT2torfjXqkUiqD7-9bdRfdzr71LyZeiKJeEo7QxakVwjgQ8DiNEElFMME1ZZf-W2M_hGtqX-Uf9z626eGbMFK=s0" alt="img" width="329" height="166"/></p>
+
 So, how do we model the behaviour of that?
 
 Scientists have studied how light behaves for centuries, but only after these centuries of thought and experiments did most scientists agree on the theory that light is a wave. 
@@ -58,6 +65,6 @@ de Broglie was awarded the Nobel prize for Physics in 1929. Interestingly, De Br
 
 ## Consequences
 
-The fact that any physical object had wave behaviour is shocking at first, but it could be said that wave-particle duality was the foundation from which all of modern quantum mechanics came about, bringing about [Heisenburg’s Uncertainty Principle](heisenberg), dictating that there is an upper limit to the properties of any object.
+The fact that any physical object had wave behaviour is shocking at first, but it could be said that wave-particle duality was the foundation from which all of modern quantum mechanics came about, bringing about [Heisenburg’s Uncertainty Principle](heisenberg), dictating that there is a limit to the properties of any object.
 
 
