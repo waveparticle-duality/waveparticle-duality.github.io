@@ -131,7 +131,7 @@ document.getElementById("submit4").addEventListener("click", function () {
 </script>
 
 
-Q5) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0.2~mm$$. A wall is $$5~m$$ away. $$How far would the first non-central peak be from the central peak?$$
+Q5) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0.2~mm$$. A wall is $$5~m$$ away. How far would the first non-central peak be from the central peak?
  <br>
 
 <input type="radio" name="q5" value="1"> $$1~cm$$ <br>
@@ -139,7 +139,7 @@ Q5) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0
 <input type="radio" name="q5" value="0"> $$1~m$$ <br>
 <input type="radio" name="q5" value="0" > $$10~m$$ <br>
 <input id="submit5" type="button" value="submit"> <br>
-<p id="res1"> </p>
+<p id="res5"> </p>
 <br>
 <br>
 <br>
@@ -171,7 +171,7 @@ Q6) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0
 <input type="radio" name="q5" value="1"> $$1001$$ <br>
 <input type="radio" name="q5" value="0" > $$2001$$ <br>
 <input id="submit6" type="button" value="submit"> <br>
-<p id="res1"> </p>
+<p id="res6"> </p>
 <br>
 <br>
 <br>
