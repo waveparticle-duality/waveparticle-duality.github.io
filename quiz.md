@@ -22,7 +22,7 @@ What is $$1+1$$? <br>
 <script>
 var correct = new Audio('audio/AC.mp3');
 var wrong = new Audio('audio/WA.mp3');
-    document.getElementById("submit1").addEventListener("click", function () {
+document.getElementById("submit1").addEventListener("click", function () {
   console.log('pls')
 
   var score=document.querySelector('input[name="q1"]:checked').value
