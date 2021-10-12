@@ -9,9 +9,11 @@ layout: default
 
 ## Young's  Experiment
 
-The double slit experiment was conducted by Thomas Young in 1801. It involves a coherent light source (e.g. a laser beam) illuminates a plate pierced by two parallel slits, and the light passing through the slits is observed on a screen behind the plate. The wave nature of light causes the light waves passing through the two slits to interfere, producing bright and dark bands on the screen – a result that would not be expected if light consisted of classical particles. 
+The double slit experiment was conducted by Thomas Young in 1801. It involves a coherent light source (e.g. a laser beam) illuminates a plate pierced by two parallel slits, and the light passing through the slits is observed on a screen behind the plate. The wave nature of light causes the light waves passing through the two slits to interfere, producing bright and dark bands on the screen – a result that would not be expected if light consisted of classical particles. The distance between two adjacent bright bands can be related to the distance between the slits by the equation  $$d\sin\theta= m\lambda$$, where m is an integer.
 
-However, the light is always found to be absorbed at the screen at discrete points, as individual particles and not waves, and the interference pattern reflects the density of these points. Versions of the experiment that involves detectors at the slits found that each detected photon passes through one slit (like a particle), and not through both slits (like a wave). However, such experiments demonstrate that particles do not form the interference pattern if one is able to detect which slit they pass through. These results demonstrate the principle of wave–particle duality.
+<p align="center"><img src="https://lh6.googleusercontent.com/X5eJ9GQXf_BNI9Lu3tc_mcSOIMHfOxJQLP997lkdFN7wUsH7U_YP54EUL703dLAz8RBYdiQHvS0-I2zfh9poaSobqq8jlk5lQdF5QOffNbf34NDhqK3HpY4EktvDgSJVIYGU2DrK=s0" alt="img" width="418" height="249"/></p>
+
+However, the light is always found to be absorbed at the screen at discrete points, as individual particles and not waves, and the interference pattern reflects the density of these points. Versions of the experiment that involves detectors at the slits found that each detected photon passes through one slit (like a particle), and not through both slits (like a wave). However, such experiments demonstrate that particles do not form the interference pattern if one is able to detect which slit they pass through. These results demonstrate the principle of wave–particle duality. 
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Single_slit_and_double_slit2.jpg/350px-Single_slit_and_double_slit2.jpg" alt="img" /></p>
 
