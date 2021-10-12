@@ -31,7 +31,7 @@ allowfullscreen></iframe>
 
 Since scientists have observed double slit interference in electrons, there have been quite a few attempts to perform (not necessarily double slit) interference on much bigger particles.
 
-In 1999, a quantum interference experiment by Markus Arndt and others had successfully shown that buckyball molecules (which comprises of $60$ carbon atoms each) can interfere with each other using a diffraction grating. In 2013, a similar experiment was successfully performed with molecules with $810$ atoms each. This was raised yet again in 2019 to molecules with $2000$ atoms, which had a mass of $25000u$.
+In 1999, a quantum interference experiment by Markus Arndt and others had successfully shown that buckyball molecules (which comprises of $$60$$ carbon atoms each) can interfere with each other using a diffraction grating. In 2013, a similar experiment was successfully performed with molecules with $$810$$ atoms each. This was raised yet again in 2019 to molecules with $$2000$$ atoms, which had a mass of $$25000u$$.
 
 ## Philosophical Sidetrack
 
