@@ -9,7 +9,9 @@ layout: default
 
 ## Introduction
 
-You may remember a few years back when the 1000 degree knife challenge was popular on YouTube. <img src="https://lh3.googleusercontent.com/tWeun_ZBT5Xipn6DKIet9FPbJXcZtuI8zsrZJnoLsFMUBySbigwDD9u-rt_F5xIL7NxUasZhQqh9dYsvPm-bhQiL-BrejM7LtuGmysecvYUDUUS79lJcUpA1fmsE7oxuKgu4C_Xr=s0" alt="img" width="500" height="300"/>
+You may remember a few years back when the 1000 degree knife challenge was popular on YouTube. 
+
+<p align="center"><img src="https://lh3.googleusercontent.com/tWeun_ZBT5Xipn6DKIet9FPbJXcZtuI8zsrZJnoLsFMUBySbigwDD9u-rt_F5xIL7NxUasZhQqh9dYsvPm-bhQiL-BrejM7LtuGmysecvYUDUUS79lJcUpA1fmsE7oxuKgu4C_Xr=s0" alt="img" width="500" height="300"/></p>
 
 If you look at the thumbnails on these videos, you will realize that the knives are shown to be glowing red (or badly photoshopped to appear as such). Why do we associate really hot things to this red glow? Do really hot things in general give a glow?
 
@@ -21,21 +23,21 @@ We call an object a black body if it absorbs all electro-magnetic waves that fal
 
 It turns out that for black bodies, the color of the glow depends only on the temperature of the object. The following chart shows us the colors that we observe for certain temperatures. We can actually use this chart as a rough estimate for the temperature of stars, by making the assumption that they are black bodies.
 
-<img src="https://lh3.googleusercontent.com/0AvgP8NNoTXckbB_U7s_kfP0JScFtXWt37EYsNzh_idezUPKJ1gwmLEE9_aawRshGWz0AmbiXfaKuGGWaRqSAOK33AzBypx3Se2j8CMb3YyXi99pe8CDzuxshp9976rhy677umt-=s0" alt="img"  width="500" height="100"/>
+<p align="center"><img src="https://lh3.googleusercontent.com/0AvgP8NNoTXckbB_U7s_kfP0JScFtXWt37EYsNzh_idezUPKJ1gwmLEE9_aawRshGWz0AmbiXfaKuGGWaRqSAOK33AzBypx3Se2j8CMb3YyXi99pe8CDzuxshp9976rhy677umt-=s0" alt="img"  width="500" height="100"/></p>
 
 From the color of the sun, we can determine that the temperature on the sun’s surface is about $$6000$$ to $$7000$$ degrees Kelvin, which is close to the actual temperature of $$5772$$ Kelvin.
 
-<img src="https://lh5.googleusercontent.com/nwvzLkamiJ4dpAaHQgO0WAYxuBzP13Q7yQ1VXblerNg9YmOwGscIEdcMZ-8J5_jIF0oX1vohiHMMPisJwop0cQ8nR3M9zh1j7tzyeFD4GY1prFe3NvWzUWg6Zq5WpZbiZgmx09mO=s0" alt="img"  width="300" height="300"/>
+<p align="center"><img src="https://lh5.googleusercontent.com/nwvzLkamiJ4dpAaHQgO0WAYxuBzP13Q7yQ1VXblerNg9YmOwGscIEdcMZ-8J5_jIF0oX1vohiHMMPisJwop0cQ8nR3M9zh1j7tzyeFD4GY1prFe3NvWzUWg6Zq5WpZbiZgmx09mO=s0" alt="img"  width="300" height="300"/></p>
 
 So when different colors are observed from different stars in the night sky. We know the reason why some stars are red-dish, some are blue-ish and some are white-ish. This is because the stars have different surface temperatures.
 
-<img src="https://lh3.googleusercontent.com/A4oUIa_Qj3K35LHYjRqiPotcgBYw2hQrKEhFPOYzl3UlMIZsgVGp8Rm8M1X0eGbGN7RE6gCYkG_xnfFtVqV-YMxNerJwHD2GkHRpWwyEhNnVuEZ_2_nIbTLQ3eb8zSe9CRaNpDcK=s0" alt="img" width="300" height="200"/>
+<p align="center"><img src="https://lh3.googleusercontent.com/A4oUIa_Qj3K35LHYjRqiPotcgBYw2hQrKEhFPOYzl3UlMIZsgVGp8Rm8M1X0eGbGN7RE6gCYkG_xnfFtVqV-YMxNerJwHD2GkHRpWwyEhNnVuEZ_2_nIbTLQ3eb8zSe9CRaNpDcK=s0" alt="img" width="300" height="200"/></p>
 
 ## Empirical Formulas
 
 But scientists wanted to know why certain temperatures gave off different colors of glow. They could collect data of the spectrum of wavelengths emitted by objects of different temperatures but physicists could not figure out why they followed this peculiar curve.
 
-<img src="https://lh4.googleusercontent.com/QVhIcqTfAdG1G0nhZc8wN0XxxpIpRlVrJL8bZUK2l3yZrnM2SwqhboG8IAPjiatIUstMiRuwSNPUWDvo4W8X-0eyABQPYFD7Q22ha5K4emMKEmWdOemy8pXBzL892MerM8ZSM0om=s0" alt="img" width="500" height="300" />
+<p align="center"><img src="https://lh4.googleusercontent.com/QVhIcqTfAdG1G0nhZc8wN0XxxpIpRlVrJL8bZUK2l3yZrnM2SwqhboG8IAPjiatIUstMiRuwSNPUWDvo4W8X-0eyABQPYFD7Q22ha5K4emMKEmWdOemy8pXBzL892MerM8ZSM0om=s0" alt="img" width="500" height="300" /></p>
 
 However, physicists could find out a few formulas empirically (by fitting equations to their data without justification).
 
