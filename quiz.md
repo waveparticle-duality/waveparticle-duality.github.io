@@ -15,9 +15,9 @@ What is $$1+1$$? <br>
 
 <input type="radio" name="q1" value="0" > $$4$$ <br>
 
-<input id="submit1" name="q1" type="button" value="submit"> 
+<input id="submit1" name="q1" type="button" value="submit"> <br>
 
-<p id="res1"></p>
+<p id="res1"> </p>
 
 
 <script>
