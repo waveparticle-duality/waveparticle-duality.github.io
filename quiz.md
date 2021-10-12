@@ -5,12 +5,12 @@ layout: default
 {% include navigation.html %}
 {% include latex.html %}
 
-Q1) What is $$1+1$$? <br>
+Q1) A particular blackbody radiates a maximum wavelength of 1449nm. Determine the temperature of the object in K.  <br>
 
-<input type="radio" name="q1" value="0"> $$1$$ <br>
-<input type="radio" name="q1" value="1"> $$2$$ <br>
-<input type="radio" name="q1" value="0"> $$3$$ <br>
-<input type="radio" name="q1" value="0" > $$4$$ <br>
+<input type="radio" name="q1" value="0"> $$500$$ <br>
+<input type="radio" name="q1" value="0"> $$1000$$ <br>
+<input type="radio" name="q1" value="1"> $$2000$$ <br>
+<input type="radio" name="q1" value="0" > $$4000$$ <br>
 <input id="submit1" type="button" value="submit"> <br>
 <p id="res1"> </p>
 <br>
@@ -158,6 +158,38 @@ document.getElementById("submit5").addEventListener("click", function () {
   }
   else{
   	document.getElementById("res5").innerHTML="WRONG"
+  	wrong.play();
+  }
+});
+</script>
+
+Q6) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0.2~mm$$. A wall is $$5~m$$ away. How many peaks can be seen on the wall?
+ <br>
+
+<input type="radio" name="q5" value="0"> $$251$$ <br>
+<input type="radio" name="q5" value="0"> $$501$$ <br>
+<input type="radio" name="q5" value="1"> $$1001$$ <br>
+<input type="radio" name="q5" value="0" > $$2001$$ <br>
+<input id="submit6" type="button" value="submit"> <br>
+<p id="res1"> </p>
+<br>
+<br>
+<br>
+<br>
+
+
+<script>
+var correct = new Audio('audio/AC.mp3');
+var wrong = new Audio('audio/WA.mp3');
+document.getElementById("submit6").addEventListener("click", function () {
+  var score=document.querySelector('input[name="q6"]:checked').value
+  
+  if (score=="1"){
+  	document.getElementById("res6").innerHTML="CORRECT"
+  	correct.play();
+  }
+  else{
+  	document.getElementById("res6").innerHTML="WRONG"
   	wrong.play();
   }
 });
