@@ -9,7 +9,7 @@ layout: default
 
 ## Introduction
 
-The de Broglie hypothesis is that, just as light has both wave-like and particle-like properties, electrons and other particles of matter also have wave-like properties, with λ = h/p, generalizing Einstein’s equation of E = hf.
+The de Broglie hypothesis is that, just as light has both wave-like and particle-like properties, electrons and other particles of matter also have wave-like properties, with $$\lambda = \frac{h}{p}$$, generalizing Einstein’s equation of $$E = hf$$.
 
 De Broglie's formula was confirmed three years later for electrons with the observation of electron diffraction in two independent experiments: passing a beam of electrons through a thin metal film and observing the predicted interference patterns, and the Davisson-Germer_experiment where an electron beam was guided through a crystalline grid.
 
