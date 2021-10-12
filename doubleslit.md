@@ -19,8 +19,6 @@ However, the light is always found to be absorbed at the screen at discrete poin
 
 Another that was interesting was that this interference pattern can also be observed with electrons. In 1974, Jönsson showed that electrons passing through slits also produced the same effect as Young’s double slit experiment. This provided evidence that electrons also had wave-like properties. But could it be possible that electrons were just interfering with other electrons? What if we made that only 1 electron would pass through the slits at any 1 time? In 1989, Tonomura and other co-workers at Hitachi decided to see what would happen. Using rather advanced technology that could detect electrons one by one, they found that the same interference pattern was also observed for a single electron, which can be thought as the electron interfering with itself.
 
-But how can a single electron have an interference pattern? Could it be that the electron splits into both holes and somehow recombines on the other side? Maybe we can try to detect which hole (or holes) the electron went through. But here is the crazy part of quantum mechanics. When we measure something, like “did the electron pass through this hole?”, the result of the experiment will change and we will not observe the interference pattern. This had a similar effect the double slit experiment conducted on light.
-
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/Xmq_FJd1oUQ" 
 frameborder="0" 
@@ -32,3 +30,20 @@ allowfullscreen></iframe>
 Since scientists have observed double slit interference in electrons, there have been quite a few attempts to perform (not necessarily double slit) interference on much bigger particles.
 
 In 1999, a quantum interference experiment by Markus Arndt and others had successfully shown that buckyball molecules (which comprises of $60$ carbon atoms each) can interfere with each other using a diffraction grating. In 2013, a similar experiment was successfully performed with molecules with $810$ atoms each. This was raised yet again in 2019 to molecules with $2000$ atoms, which had a mass of $25000u$.
+
+## Philosophical Sidetrack
+
+Knowing the results of the double slit experiment formed on electron, we have to ask a slightly philosophical question. Which hole did the electron go through? How can a single electron have an interference pattern? How can the electron go through both holes? Could it be that the electron splits into both holes and somehow recombines on the other side? Maybe we can try to detect which hole (or holes) the electron went through.
+
+But here is the catch of quantum mechanics, when we “observe” the position of the electron, the electron suddenly collapses into that position. Experiments that have tried to detect which hole the electron passed through found that the interference pattern is now lost, which is the same result as double slit experiments done using photons. So what do we reconcile this? This seems like the electron has to be passing through both slits at the same time! This is absurd! Have you ever observed anything passing through 2 holes at the same time before?
+
+The only way to reconcile this is to acknowledge that compared to the size of electrons (and other atomic sized particles) humans are really big creatures. The mass of an electron is $$9.11 \cdot 10^{-31}$$ which is so unfathomably small to humans that it has no meaning at all to most people. We have to accept that at very very small scales, weird things like “the electron passes through both holes” happens. Unfortunately, this is how nature works.
+
+Here are the things really smart people had to say about Quantum Mechanics (stuff that happens when things are really small).
+
+<p align="center"><img src="https://lh6.googleusercontent.com/FNjMaBeoHVs06YC2dCqRzbPLTFxYKvFosDbZpp7Adytk7A7ESIrGsnCLJqrdZoaCvUIXR_LjUhQa4-155Qjs9WZye_EqgGxrcsGKrYX9RvcnEy8M2ubfBvqE-u-34n0rcMHwDsp_=s0" alt="img" width="400"/></p>
+
+<p align="center"><img src="https://lh5.googleusercontent.com/N_bDp0Le2jp7G20fzTQxynM-LNyo3RPxVg23zhYoonRrM2FZxDwjAGqI_47KdkkaLOC7DHnV4M-R3CwMO0r-gyR6zzn2j8NKgTTQscywoHOY5JdiKKHd6MzV99WP9uFOzijDcgTk=s0" alt="img" width="400"/></p>
+
+<p align="center"><img src="https://lh6.googleusercontent.com/6Pp_7BNi5qwrXzLKuinzEk4Uj9UmgcMVL5z7u353ou9AvkW5jooIHG7BAJTxYX1Xyt06Pi-D9l6ZOnskDvLH5pI8JZKAOh_tGeRZ9k2i8onxS2EFjkKGFPW3mG6rMvUWASY2Mchy=s0" alt="img" width="300" /></p>
+
