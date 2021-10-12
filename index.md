@@ -52,9 +52,9 @@ From this point on, scientists could agree that light had both wave-like and par
 
 <p align="center"><img src="https://lh5.googleusercontent.com/wCpPx07w0_V5uUzBHUnn11v_-ekW3TOxFy7WUmCLhIfGNsL71rG0yU7RMZwc-ppCumA_EP6lwIWTEJWDBxlDLbTyShVTOarLxj20abl2A7ESjJiD70qEBVkjcg3b8t5MmMPn244C=s0" alt="img" width="627" height="164"/></p>
 
-It was not until De Brogile asked a fundamental question of whether particles like electrons could exhibit wave-like properties in his famous 1924 paper was the final piece of the puzzle solved. After a few experiments that confirmed particles had wave-like properties. It seemed that De Brogile was right. He showed that electrons can behave like waves, but more than that, his derivations suggested that everything in the universe behaved both as a wave and a particle.
+It was not until de Broglie asked a fundamental question of whether particles like electrons could exhibit wave-like properties in his famous 1924 paper was the final piece of the puzzle solved. After a few experiments that confirmed particles had wave-like properties. It seemed that de Broglie was right. He showed that electrons can behave like waves, but more than that, his derivations suggested that everything in the universe behaved both as a wave and a particle, known now as the [de Broglie hypothesis](debroglie).
 
-De Brogile was awarded the Nobel prize for Physics in 1929. Interestingly, De Brogile had initially intended his career to be in the humanities and received his first degree in history.
+de Broglie was awarded the Nobel prize for Physics in 1929. Interestingly, De Brogile had initially intended his career to be in the humanities and received his first degree in history.
 
 ## Consequences
 
