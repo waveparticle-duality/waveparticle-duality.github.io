@@ -21,8 +21,8 @@ This site is intended for readers with a pre-highschool level of understanding, 
 | Member      | Work done   |
 | ----------- | ----------- |
 | Ashley      | <a href="blackbody">Black Body Radiation</a>, <a href="arago">Arago Spot</a>, <a href="doubleslit">Double Slit Experiment</a>, <a href="quiz">Quiz</a>, Coding  |
-| Charles     | <a href=".">Home page</a>,  <a href="photoelectric">Photoelectric effect</a>     |
-| Tan Ying    | <a href="about">About page</a>, <a href="heisenberg">Heisenberg's Uncertainty Principle</a>, <a href="debroglie">de Broglie's Hypothesis</a>  |
+| Charles     | <a href=".">Home page</a>,  <a href="photoelectric">Photoelectric effect</a>,  <a href="about">About page</a>  |
+| Tan Ying    | <a href="heisenberg">Heisenberg's Uncertainty Principle</a>, <a href="debroglie">de Broglie's Hypothesis</a>  |
 
 ## References & Further Reading
 
