@@ -20,4 +20,6 @@ If one demanded that electromagnetic radiation at a given frequency could only t
 
 The energy of ejected electrons should also increase linearly with frequency, with the gradient of the line being Planck's constant, famously known with the equation $$E = hf$$. These results were not confirmed until 1915, when Robert Andrews Millikan produced experimental results in perfect accord with Einstein's predictions.
 
+<p align="center"><img src="https://cdn.goconqr.com/uploads/image_clipping/image/143813/photoelectric-graph.jpg" alt="img" width="300" height="300"/></p>
+
 In turn, this demonstrated the particulate nature of light, as the effect was impossible to understand in terms of the classical wave description of light as the energy of the emitted electrons did not depend on the intensity of the incident radiation. Classical theory predicted that the electrons would 'gather up' energy over a period of time, and then be emitted.
