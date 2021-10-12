@@ -5,7 +5,7 @@ layout: default
 {% include navigation.html %}
 {% include latex.html %}
 
-Q1) A particular blackbody radiates a maximum wavelength of 1449nm. Determine the temperature of the object in K.  <br>
+Q1) A particular blackbody radiates a maximum wavelength of $$1449nm$$. Determine the temperature of the object.  <br>
 
 <input type="radio" name="q1" value="0"> $$500K$$ <br>
 <input type="radio" name="q1" value="0"> $$1000K$$ <br>
@@ -163,7 +163,7 @@ document.getElementById("submit5").addEventListener("click", function () {
 });
 </script>
 
-Q6) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0.2~mm$$. A wall is $$5~m$$ away. How many peaks can be seen on the wall?
+Q6) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0.2~mm$$. A wall is $$5~m$$ away. How many peaks can be seen on the wall? Assume the wall is infinitely long.
  <br>
 
 <input type="radio" name="q5" value="0"> $$251$$ <br>
