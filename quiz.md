@@ -11,7 +11,7 @@ Q1) What is $$1+1$$? <br>
 <input type="radio" name="q1" value="1"> $$2$$ <br>
 <input type="radio" name="q1" value="0"> $$3$$ <br>
 <input type="radio" name="q1" value="0" > $$4$$ <br>
-<input id="submit1" type="button" value="submit"> <&nbsp;> <p id="res1"> </p>
+<input id="submit1" type="button" value="submit"> &nbsp; <p id="res1"> </p>
 
 
 <script>
@@ -41,7 +41,7 @@ Q2) Xiao Ming is sitting in an aircon room which is at $$25$$ degrees celcius. X
 <input type="radio" name="q2" value="0"> $$894~W$$ <br>
 <input type="radio" name="q2" value="0"> $$1441~W$$ <br>
 <input type="radio" name="q2" value="0" > $$2882~W$$ <br>
-<input id="submit2" type="button" value="submit"> <&nbsp;> <p id="res2"> </p>
+<input id="submit2" type="button" value="submit"> &nbsp; <p id="res2"> </p>
 
 
 <script>
@@ -71,7 +71,7 @@ Q3) Usain Bolt has a weight of $$94~kg$$. Usain bolt can run $$100~m$$ in $$9.58
 <input type="radio" name="q3" value="0"> $$6.757 \cdot 10^{-36}~m$$ <br>
 <input type="radio" name="q3" value="0"> $$3.378 \cdot 10^{-37}~m$$ <br>
 <input type="radio" name="q3" value="1" > $$6.757 \cdot 10^{-37}~m$$ <br>
-<input id="submit3" type="button" value="submit"> <&nbsp;> <p id="res3"> </p>
+<input id="submit3" type="button" value="submit"> &nbsp; <p id="res3"> </p>
 
 
 <script>
@@ -101,7 +101,7 @@ Q4) Usain Bolt has a weight of $$94~kg$$. Usain bolt can run $$100~m$$ in $$9.58
 <input type="radio" name="q4" value="0"> $$6.757 \cdot 10^{-36}~m$$ <br>
 <input type="radio" name="q4" value="0"> $$3.378 \cdot 10^{-37}~m$$ <br>
 <input type="radio" name="q4" value="1" > $$6.757 \cdot 10^{-37}~m$$ <br>
-<input id="submit4" type="button" value="submit"> <&nbsp;> <p id="res4"> </p>
+<input id="submit4" type="button" value="submit"> &nbsp; <p id="res4"> </p>
 
 
 <script>
@@ -132,7 +132,7 @@ Q5) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0
 <input type="radio" name="q5" value="0"> $$10~cm$$ <br>
 <input type="radio" name="q5" value="0"> $$1~m$$ <br>
 <input type="radio" name="q5" value="0" > $$10~m$$ <br>
-<input id="submit5" type="button" value="submit"> <&nbsp;>  <p id="res5"> </p>
+<input id="submit5" type="button" value="submit"> &nbsp;  <p id="res5"> </p>
 
 
 <script>
