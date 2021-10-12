@@ -1,6 +1,5 @@
 ---
-title: Black Body Radiation
-description: Shiny
+title: "Black Body Radiation"
 ---
 
 {% include navigation.html %}
