@@ -21,13 +21,11 @@ Another that was interesting was that this interference pattern can also be obse
 
 But how can a single electron have an interference pattern? Could it be that the electron splits into both holes and somehow recombines on the other side? Maybe we can try to detect which hole (or holes) the electron went through. But here is the crazy part of quantum mechanics. When we measure something, like “did the electron pass through this hole?”, the result of the experiment will change and we will not observe the interference pattern. This had a similar effect the double slit experiment conducted on light.
 
-```html
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/Xmq_FJd1oUQ" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
-```
 
 ## Other Variants
 
