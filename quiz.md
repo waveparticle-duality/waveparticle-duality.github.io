@@ -166,10 +166,10 @@ document.getElementById("submit5").addEventListener("click", function () {
 Q6) Light of wavelength $$400~nm$$ is shone through $$2$$ slits separated by $$0.2~mm$$. A wall is $$5~m$$ away. How many peaks can be seen on the wall? Assume the wall is infinitely long.
  <br>
 
-<input type="radio" name="q5" value="0"> $$251$$ <br>
-<input type="radio" name="q5" value="0"> $$501$$ <br>
-<input type="radio" name="q5" value="1"> $$1001$$ <br>
-<input type="radio" name="q5" value="0" > $$2001$$ <br>
+<input type="radio" name="q6" value="0"> $$251$$ <br>
+<input type="radio" name="q6" value="0"> $$501$$ <br>
+<input type="radio" name="q6" value="1"> $$1001$$ <br>
+<input type="radio" name="q6" value="0" > $$2001$$ <br>
 <input id="submit6" type="button" value="submit"> <br>
 <p id="res6"> </p>
 <br>
