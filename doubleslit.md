@@ -39,7 +39,7 @@ Knowing the results of the double slit experiment formed on electron, we have to
 
 But here is the catch of quantum mechanics, when we “observe” the position of the electron, the electron suddenly collapses into that position. Experiments that have tried to detect which hole the electron passed through found that the interference pattern is now lost, which is the same result as double slit experiments done using photons. So what do we reconcile this? This seems like the electron has to be passing through both slits at the same time! This is absurd! Have you ever observed anything passing through 2 holes at the same time before?
 
-The only way to reconcile this is to acknowledge that compared to the size of electrons (and other atomic sized particles) humans are really big creatures. The mass of an electron is $$9.11 \cdot 10^{-31}$$ which is so unfathomably small to humans that it has no meaning at all to most people. We have to accept that at very very small scales, weird things like “the electron passes through both holes” happens. Unfortunately, this is how nature works.
+The only way to reconcile this is to acknowledge that compared to the size of electrons (and other atomic sized particles) humans are really big creatures. The mass of an electron is $$9.11 \cdot 10^{-31}~kg$$ which is so unfathomably small to humans that it has no meaning at all to most people. We have to accept that at very very small scales, weird things like “the electron passes through both holes” happens. Unfortunately, this is how nature works.
 
 Here are the things really smart people had to say about Quantum Mechanics (stuff that happens when things are really small).
 
