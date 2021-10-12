@@ -23,7 +23,7 @@ But how can a single electron have an interference pattern? Could it be that the
 
 ```html
 <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=Xmq_FJd1oUQU" 
+src="https://www.youtube.com/embed/Xmq_FJd1oUQ" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
